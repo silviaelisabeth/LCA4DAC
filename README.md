@@ -1,5 +1,5 @@
 # LCA4DAC
-Based on the studies from S Deutz. A Bardow$[1]$ and the National Academies of Science$[2]$, I created a presentation for PhD and Postdoc on why we do technology assessment and what we can learn from it. 
+Based on the studies from S Deutz. A Bardow[1] and the National Academies of Science[2], I created a presentation for PhD and Postdoc on why we do technology assessment and what we can learn from it. 
 
 
 # Reference
